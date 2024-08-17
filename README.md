@@ -20,7 +20,8 @@ for executing the code, follow these steps:
 Ensure you have Python 3.6+ installed.
 
 3. **Execute the code**:
-python ___Prime_numbers_Detector.py
+   ```bash
+   python ___Prime_numbers_Detector.py
 
 
 
